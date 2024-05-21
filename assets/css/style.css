@@ -4442,9 +4442,10 @@ body:not(.has-sidebar) .pagination {
 
 	.site-footer .widget-area.columns-3 > * {
 		-ms-flex-preferred-size: 33.3333%;
-		flex-basis: 22.2222%;
+		flex-basis: 24.999%;
 		padding: 0 3%;
 	}
+	
 
 	.site-footer .widget-area.columns-4 > * {
 		-ms-flex-preferred-size: 25%;
